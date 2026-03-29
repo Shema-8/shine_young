@@ -48,7 +48,6 @@ Shine Young is a child-focused web-based cultural learning platform that provide
 
 ## First we have to change to localhost 
 # DO THIS
-Here is everything simplified — same change grouped together:
 
 ---
 
