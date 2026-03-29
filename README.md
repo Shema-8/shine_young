@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 About the Project
+##  About the Project
 
 Shine Young is a child-focused web-based cultural learning platform that provides young learners aged 5–12 with access to traditional Rwandan stories, proverbs, music, dance videos, and school cultural content. It includes a full admin dashboard for content management and real-time message handling.
 
